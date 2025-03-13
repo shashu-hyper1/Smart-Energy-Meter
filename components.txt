@@ -1,0 +1,21 @@
+Microcontroller
+
+ESP32 Development Board (1x)
+Sensors
+
+AC Voltage Sensor Module (3x) - ZMPT101B 
+AC Current Sensor Module (1x) - ACS712 or SCT-013
+Relays
+
+5V Relay Module (2x) - Single channel 
+Power Supply
+
+5V DC Power Adapter (1x)
+AMS1117 3.3V Voltage Regulator (1x) - For ESP32 
+Passive Components
+
+Resistors (various values for voltage dividers)
+10kΩ (4x)
+100kΩ (4x)
+Capacitors
+100nF ceramic capacitors (5x) - For filtering
